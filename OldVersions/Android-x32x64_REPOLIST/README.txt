@@ -2,10 +2,10 @@
 //// Android-x32x64_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Android x32x64 project repositories by @seanpm2001
-//// As of 2025, Tuesday, February 25th
+//// As of 2025, Wednesday, February 26th
 
 //// ----------------------------------------------------- \\\\
-//// Android x32x64 Project (32)
+//// Android x32x64 Project (34)
 //// ----------------------------------------------------- \\\\
 
 //// Android x32x64 Project home (1)
@@ -73,14 +73,16 @@ https://github.com/seanpm2001/Android-x32x64_LiveCD_13A_Edition_Docs
 //// Android x32x64 Android 14.x (1)
 
 https://github.com/seanpm2001/Android-x32x64_LiveCD_14A_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_14A_Edition_Docs
 
 //// Android x32x64 Android 15.x (1)
 
 https://github.com/seanpm2001/Android-x32x64_LiveCD_15A_Edition
+https://github.com/seanpm2001/Android-x32x64_LiveCD_15A_Edition_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (Android x32x64): 32
-//// 1+1+4+4+4+4+2+2+2+4+2+1+1=32
+//// Repo count (Android x32x64): 34
+//// 1+1+4+4+4+4+2+2+2+4+2+2+2=34
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -95,15 +97,15 @@ https://github.com/seanpm2001/Android-x32x64x128
 //// Repo count (See also): 4
 //// 4+0=4
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 36
-//// 32+4=36
+//// Total repo count: 38
+//// 34+4=38
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 3 (2025, Tuesday, Febuary 25th at 01:33 pm PST)
-//// Line count (including blank lines and compiler line): 110
+//// File version: 4 (2025, Wednesday, Febuary 26th at 05:51 pm PST)
+//// Line count (including blank lines and compiler line): 112
 //// ----------------------------------------------------- \\\\
 
 //// End of file
